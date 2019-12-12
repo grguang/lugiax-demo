@@ -1,0 +1,9 @@
+{
+  "plugins": [["import", [
+    {
+      "libraryName": "@lugia/lugia-web",
+      "libraryDirectory": "dist",
+      "style": true
+    }
+  ]]]
+}
